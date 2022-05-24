@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cbthenoobie
-- 👀 I’m interested in ...Learning New thing spcecially on Tech
+- 👀 I’m interested in ...Learning New thing specially on Tech
 - 🌱 I’m currently learning ...HTML
 - 💞️ I’m looking to collaborate on ... HTML
 - 📫 How to reach me ...
